@@ -1,1 +1,1 @@
-# Extract-stock-sentiment-from-news-headlines-html-datasets-
+# Extract-stock-sentiment-from-news-headline
